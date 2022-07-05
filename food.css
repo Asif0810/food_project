@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+.both-banner {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.food-bnnr-half {
+    width: 50%;
+    margin-top: 150px;
+}
+
+.header1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #575757;
+    width: 490px
+}
+
+.skip {
+    color: #FB9249;
+}
+
+p {
+    color: #575757;
+    margin-bottom: 50px
+}
+
+.btn {
+    color: white;
+    background: linear-gradient(lightsalmon, rgb(235, 43, 10));
+    padding: 15px 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 25px;
+
+}
+
+.food-bnnr-half2 img {
+    width: 700px;
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.about_both {
+    display: flex;
+    width: 100%;
+}
+
+.about_left img {
+    width: 250px;
+    margin-left: 300px;
+
+}
+
+.about_right {
+    width: 430px;
+    margin-left: 200px;
+    padding-top: 80px;
+}
+
+.about_me {
+    box-shadow: 5px 7px 40px grey;
+    padding-top: 40px;
+
+}
+
+.about_h1 {
+    color: #575757
+}
+
+.about_p {
+    font-size: 16px;
+}
+
+.about_pra {
+    font-size: 14px
+}
+
+.about_me {
+    background-image: url(shapes/7.png);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
